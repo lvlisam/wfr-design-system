@@ -34,7 +34,7 @@ body {
   
 }
 .right {
-  background-color: #ff0000;
+  float: right;
   
 }
 
