@@ -30,11 +30,10 @@ body {
 }
 
 .left {
-  position: absolute;
+  float:left;
   padding: 0px;
 }
 .right {
-  position: absolute;
   padding: 0px;
 }
 
