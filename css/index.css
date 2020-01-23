@@ -30,16 +30,21 @@ body {
   background-size: 1024px 140px;
 }
 
-.left {
+#left {
   float:left;
   padding: 0px;
 }
-.right {
+#right {
   float:right;
   padding: 0px;
 }
 
-#headericons {
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#headericons  {
   width: 1024px;
   height: 140px;
  
