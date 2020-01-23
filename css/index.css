@@ -30,3 +30,8 @@ body {
   left: 0px;
   padding: 10px;
 }
+.container {
+  width: 500px;
+  padding: 10px;
+  align-items: left;
+}
