@@ -7,6 +7,12 @@ h1 {
   color: SeaGreen;
 }
 
+h2 {
+  color: #0A75C2;
+  font-size: 20px;
+  font-weight: lighter;
+}
+
 
 p, 
 li {
@@ -32,6 +38,6 @@ body {
 }
 .container {
   width: 500px;
-  padding: 10px;
+  padding: 20px;
   align-items: left;
 }
