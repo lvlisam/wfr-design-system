@@ -29,11 +29,11 @@ body {
   background-size: 1024px 140px;
 }
 
-#left {
+.left {
   background-color: #ff0000;
   
 }
-#right {
+.right {
   background-color: #ff0000;
   
 }
