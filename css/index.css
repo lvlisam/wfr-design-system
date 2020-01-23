@@ -31,12 +31,10 @@ body {
 
 .left {
   position: absolute;
-  left: 0px;
   padding: 0px;
 }
 .right {
   position: absolute;
-  right: 0px;
   padding: 0px;
 }
 
