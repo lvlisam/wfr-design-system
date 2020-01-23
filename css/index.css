@@ -35,8 +35,9 @@ body {
   
 }
 .right {
+
     width: 512px;
-    
+
   
 }
 
@@ -45,6 +46,5 @@ body {
 #headerContainer {
   width: 1024px;
   height: 140px;
-  display: flex;
  
 }
