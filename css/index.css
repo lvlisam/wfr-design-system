@@ -24,7 +24,7 @@ a {
 }
 
 body {
-  background-color:white;
+  background-color: white;
   background: url(images/headerBG.jpg);
   background-repeat: no-repeat;
   background-size: 1024px 140px;
@@ -44,7 +44,7 @@ body {
   flex-wrap: wrap;
 }
 
-#headericons  {
+#headerContainer {
   width: 1024px;
   height: 140px;
  
