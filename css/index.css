@@ -29,8 +29,13 @@ body {
 }
 
 .left {
-  position: absolute;
+  float: left;
   left: 0px;
+  padding: 10px;
+}
+.right {
+  float: right;
+  right: 0px;
   padding: 10px;
 }
 .container {
