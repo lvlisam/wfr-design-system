@@ -30,7 +30,7 @@ body {
 }
 
 .left {
-  background-color: #ff0000;
+  position: absolute;
   
 }
 .right {
