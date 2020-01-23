@@ -29,7 +29,7 @@ body {
 }
 
 .left {
-  float: left;
+  position: absolute;
   left: 0px;
   padding: 10px;
 }
