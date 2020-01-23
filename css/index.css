@@ -32,12 +32,12 @@ body {
 .left {
   position: absolute;
   left: 0px;
-  padding: 10px;
+
 }
 .right {
-  position: absolute;
+
   right: 0px;
-  padding: 10px;
+
 }
 #header {
   width: 1024px;
