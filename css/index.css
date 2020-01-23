@@ -43,6 +43,6 @@ body {
 #headerContainer {
   width: 1024px;
   height: 140px;
-  align-items: center;
+  display: flex;
  
 }
