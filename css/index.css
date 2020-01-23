@@ -40,8 +40,10 @@ body {
   padding: 0px 10px;
 }
 
-#header {
+#headericons {
   width: 1024px;
   height: 140px;
+  display:inline-block;
+  margin: 0 auto;
  
 }
