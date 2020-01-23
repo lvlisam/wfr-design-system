@@ -24,3 +24,9 @@ body {
   background-repeat: no-repeat;
   background-size: 1024px 140px;
 }
+
+.left {
+  position: absolute;
+  left: 0px;
+  padding: 10px;
+}
