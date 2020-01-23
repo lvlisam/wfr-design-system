@@ -34,7 +34,7 @@ body {
   padding: 10px;
 }
 .right {
-  float: right;
+  position: absolute;
   right: 0px;
   padding: 10px;
 }
