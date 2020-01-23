@@ -31,12 +31,12 @@ body {
 }
 
 #left {
-  float:left;
-  padding: 0px;
+  background-color: #ff0000;
+  min-height: 140px;
 }
 #right {
-  float:right;
-  padding: 0px;
+  background-color: #ff0000;
+  min-height: 140px;
 }
 
 .flex {
