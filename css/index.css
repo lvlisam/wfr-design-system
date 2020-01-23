@@ -30,11 +30,11 @@ body {
 }
 
 .left {
-  position: absolute;
+max-height: 140px;
   
 }
 .right {
-  float: right;
+max-height: 140px;
   
 }
 
