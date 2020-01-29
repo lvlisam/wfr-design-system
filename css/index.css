@@ -58,8 +58,7 @@ body {
 .bell {
 
   display: inline-block;
-  position:absolute;
-  margin: 0px 0px 0px 1000px;
+  margin: 0 auto;
   width: 25px;
   height: 23px;
 }
