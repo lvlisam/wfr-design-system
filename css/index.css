@@ -43,7 +43,6 @@ body {
 .right-notifications {
 
     width: 10%;
-
   
 }
 
@@ -57,7 +56,7 @@ body {
   justify-content: center;
 }
 .headerContainer div{
-  width: 1024px;
+  width: 100%;
   height: 140px;
  
 }
