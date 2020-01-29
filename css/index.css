@@ -32,11 +32,17 @@ body {
   background-repeat: no-repeat;
 }
 
+.leftItems {
+    display: inline-block;
+  margin: 0 auto;
+  left: 50%;
+} 
 
-.notifications {
-  align: right;
+.rightItems {
+
   display: inline-block;
   margin: 0 auto;
+  right: 50%;
 }
 
 
