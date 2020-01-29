@@ -32,18 +32,28 @@ body {
   height: 100%;
 }
 
-.left-items {
-    display: inline-block;
-  position:absolute;
-  margin: 0 auto;
-  left: 50%;
-} 
+.left-items{
+  width:50%;
+}
 
 .right-items {
+  width:50%;
+}
+.hamburger-menu {
+  display: inline-block;
+  position:absolute;
+  margin: 0 auto;
+  height: 34px;
+  width: 34px;
+  
+} 
+
+.bell {
 
   display: inline-block;
   margin: 0 auto;
-  right: 50%;
+  width: 25px;
+  height: 23px;
 }
 
 
