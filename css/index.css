@@ -11,14 +11,12 @@
 
 h1{
   color: #0A75C2;
-  font-size: 20px;
   font-weight: lighter;
   text-align: center;
 }
 
 
 p {
-  font-size: 18px;
   font-family: Roboto;
 }
 
@@ -75,7 +73,7 @@ body {
 
 
 
-.headerContainer {
+.header-container {
   align-items: center;
   justify-content: center;
   display: flex;
