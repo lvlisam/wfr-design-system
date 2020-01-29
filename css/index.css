@@ -40,7 +40,7 @@ body {
 }
 .hamburger-menu {
   display: inline-block;
-  position:absolute;
+  float:left;
   margin: 0 auto;
   height: 34px;
   width: 34px;
@@ -49,14 +49,13 @@ body {
 
 .title {
   display: inline-block;
-  position:absolute;
   margin: 0 auto;
   text-align: center;
   font-size: 20px;
 }
 
 .bell {
-
+  float: right;
   display: inline-block;
   margin: 0 auto;
   width: 25px;
