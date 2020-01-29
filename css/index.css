@@ -39,6 +39,14 @@ body {
 .right-items {
   width:50%;
 }
+
+.logo {
+  display: inline-block;
+  position:absolute;
+  margin: 0 auto;
+  height: 22px;
+  width: 97px;
+}
 .hamburger-menu {
   display: inline-block;
   position:absolute;
@@ -47,6 +55,12 @@ body {
   width: 34px;
   
 } 
+
+.title {
+   display: inline-block;
+  position:absolute;
+  margin: 0 auto;
+}
 
 .bell {
 
