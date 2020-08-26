@@ -13,11 +13,12 @@ h1{
   color: #0A75C2;
   font-weight: lighter;
   text-align: center;
+  
 }
 
 
 p {
-  font-family: Roboto;
+  font-family: Roboto, "Roboto Condensed";
 }
 
 
@@ -50,8 +51,11 @@ body {
 .title {
   display: inline-block;
   margin: 0 auto;
+  Font-family: Roboto;
+  font-weight: lighter;
   text-align: center;
-  font-size: 20px;
+  font-size: 16px;
+  text-transform: uppercase;
 }
 
 .bell {
@@ -62,7 +66,13 @@ body {
   height: 23px;
 }
 
-
+.body-content-box {
+	border: 5px solid #0A75C2;
+	background-color: #fff;
+	opacity: 1;
+	height: 500px;
+	width:500px;
+}
 
 .header-container {
   align-items: center;
