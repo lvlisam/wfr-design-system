@@ -80,6 +80,7 @@ body {
 	height: 100%;
 	width:95%;
 	margin: 2%;
+	overflow: scroll;
 }
 
 .left-links {
@@ -88,6 +89,7 @@ body {
 	height: 100%;
 	float: left;
 	background-color: #eee;
+	overflow: scroll;
 }
 
 .intro {
