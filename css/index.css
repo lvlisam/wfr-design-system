@@ -31,13 +31,22 @@ body {
   height: 100%;
 }
 
+.nav-link {
+	text-align: center;
+	font-size: 14px;
+	color: #0A75C2;
+	font-family: Roboto;
+	max-width: 95%;
+	margin-left: 10%;
+	margin-top: 10%;
+	display: inline-block;
+}
 
 .logo {
   float: left;
   margin: 0 auto;
   height: 22px;
   width: 97px;
-  visibility: visible;
 }
 .hamburger-menu {
   float:left;
@@ -68,19 +77,24 @@ body {
 .body-content-box {
 	border: 1px solid #0A75C2;
 	background-color: #fff;
-	opacity: 1;
-	height: 90%;
-	width:90%%;
-	position: relative;
-	float: center;
+	height: 100%;
+	width:95%;
 	margin: 40px;
+}
+
+.left-links {
+	border: 0px solid #0A75C2;
+	width: 20%;
+	height: 100%;
+	float: left;
+	background-color: #eee;
 }
 
 .intro {
 	text-align: center;
 	background-color: #eee;
 	height: 10%;
-	width: 100%;
+	width: 95%;
 }
 
 .header-container {
