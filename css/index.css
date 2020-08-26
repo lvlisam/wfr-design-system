@@ -36,7 +36,7 @@ body {
 	font-size: 14px;
 	color: #0A75C2;
 	font-family: Roboto;
-	max-width: 95%;
+	max-width: 90%;
 	margin-left: 10%;
 	margin-top: 10%;
 	display: inline-block;
@@ -95,6 +95,10 @@ body {
 	background-color: #eee;
 	height: 10%;
 	width: 95%;
+}
+
+.components {
+	margin: 2px;
 }
 
 .header-container {
