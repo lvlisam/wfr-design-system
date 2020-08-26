@@ -33,19 +33,18 @@ body {
 
 
 .logo {
-  display: inline-block;
   float: left;
   margin: 0 auto;
   height: 22px;
   width: 97px;
+  visibility: visible;
 }
 .hamburger-menu {
-  display: inline-block;
   float:left;
   margin: 0 auto;
   height: 34px;
   width: 34px;
-  
+  visibility: visible;
 } 
 
 .title {
@@ -79,12 +78,21 @@ body {
 
 .intro {
 	text-align: center;
+	background-color: #eee;
+	height: 10%;
+	width: 100%;
 }
 
 .header-container {
   align-items: center;
   justify-content: center;
   display: flex;
-  height: 140px;
+  height: 7%;
  
+}
+
+.footer {
+	
+	
+	height: 7%;
 }
