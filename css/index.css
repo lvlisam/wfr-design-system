@@ -70,10 +70,12 @@ body {
 	border: 5px solid #0A75C2;
 	background-color: #fff;
 	opacity: 1;
-	height: 500px;
-	width:500px;
+	height: 90%;
+	width:90%%;
+	position: relative;
+	float: center;
+	margin: 40px;
 }
-
 .header-container {
   align-items: center;
   justify-content: center;
