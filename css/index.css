@@ -76,6 +76,11 @@ body {
 	float: center;
 	margin: 40px;
 }
+
+.intro {
+	text-align: center;
+}
+
 .header-container {
   align-items: center;
   justify-content: center;
