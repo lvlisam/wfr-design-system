@@ -36,20 +36,18 @@ body {
 	font-size: 14px;
 	color: #0A75C2;
 	font-family: Roboto;
-	max-width: 90%;
+	max-width: 95%;
 	margin-left: 10%;
 	margin-top: 10%;
 	display: inline-block;
 }
 
 .logo {
-  float: left;
-  margin: 0 auto;
+  margin: 0 2%;
   height: 22px;
   width: 97px;
 }
 .hamburger-menu {
-  float:left;
   margin: 0 auto;
   height: 34px;
   width: 34px;
@@ -80,7 +78,6 @@ body {
 	height: 100%;
 	width:95%;
 	margin: 2%;
-	overflow: scroll;
 }
 
 .left-links {
@@ -89,7 +86,6 @@ body {
 	height: 100%;
 	float: left;
 	background-color: #eee;
-	overflow: scroll;
 }
 
 .intro {
@@ -104,11 +100,11 @@ body {
 }
 
 .header-container {
-  align-items: center;
-  justify-content: center;
-  display: flex;
+
   height: 7%;
- 
+  width: 100%;
+  text-align: left;
+  padding: 1%;
 }
 
 .footer {
